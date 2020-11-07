@@ -1,0 +1,19 @@
+
+body{
+    margin:10px;background-color:#FFF8DC;font-family: 'Montserrat', sans-serif; 
+}
+h1{ 
+    background-color: rgb(204, 25, 159);color:#FFE4E1;font-family: 'El Messiri', sans-serif; font-size: 50px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;background-color:  rgb(221, 90, 188);
+}
+li{
+    display:inline-block
+}
+#Ihelp{
+    text-shadow: cadetblue 2px 2px 4px;box-shadow: darkblue 8px 8px 4px;
+}
+img{
+    display:block; box-shadow: darkred 6px 6px 5px;border-radius: 50px;
+}
